@@ -1,0 +1,4 @@
+Installing Python Playwright requires to have Microsoft Visual C++ 14.0 or greater. 
+You can get it with "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+That's why I didn't include it as the primary main.py script.
